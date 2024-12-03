@@ -1,0 +1,138 @@
+2024-12-02 14:52:50 INFO  Utils:112 - [TestNG] Running:
+  C:\automation\myworkspace\opencart\grid-docker.xml
+
+2024-12-02 14:53:16 INFO  TC001_AccountRegistrationTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-12-02 14:53:16 INFO  TC001_AccountRegistrationTest:19 - Clicked on My Account 
+2024-12-02 14:53:17 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register 
+2024-12-02 14:53:17 INFO  TC001_AccountRegistrationTest:27 - Provided First Name 
+2024-12-02 14:53:17 INFO  TC001_AccountRegistrationTest:30 - Provided Last Name 
+2024-12-02 14:53:18 INFO  TC001_AccountRegistrationTest:34 - Provided Email 
+2024-12-02 14:53:18 INFO  TC001_AccountRegistrationTest:37 - Provided Telephone 
+2024-12-02 14:53:18 INFO  TC001_AccountRegistrationTest:40 - Provided Password 
+2024-12-02 14:53:18 INFO  TC001_AccountRegistrationTest:43 - Provided Confrmed Password 
+2024-12-02 14:53:18 INFO  TC001_AccountRegistrationTest:46 - Set Privacy Policy 
+2024-12-02 14:53:19 INFO  TC001_AccountRegistrationTest:49 - Clicked on Continue 
+2024-12-02 14:53:21 INFO  TC001_AccountRegistrationTest:61 - Finished TC_001_AccountRegistrationtTest
+2024-12-02 14:55:58 INFO  Utils:112 - [TestNG] Running:
+  C:\automation\myworkspace\opencart\grid-docker.xml
+
+2024-12-02 14:56:52 INFO  TC001_AccountRegistrationTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-12-02 14:57:02 INFO  TC001_AccountRegistrationTest:19 - Clicked on My Account 
+2024-12-02 14:57:12 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register 
+2024-12-02 14:57:20 INFO  TC001_AccountRegistrationTest:27 - Provided First Name 
+2024-12-02 14:57:20 INFO  TC001_AccountRegistrationTest:30 - Provided Last Name 
+2024-12-02 14:57:20 INFO  TC001_AccountRegistrationTest:34 - Provided Email 
+2024-12-02 14:57:20 INFO  TC001_AccountRegistrationTest:37 - Provided Telephone 
+2024-12-02 14:57:20 INFO  TC001_AccountRegistrationTest:40 - Provided Password 
+2024-12-02 14:57:20 INFO  TC001_AccountRegistrationTest:43 - Provided Confrmed Password 
+2024-12-02 14:57:21 INFO  TC001_AccountRegistrationTest:46 - Set Privacy Policy 
+2024-12-02 14:57:24 INFO  TC001_AccountRegistrationTest:49 - Clicked on Continue 
+2024-12-02 14:57:27 INFO  TC001_AccountRegistrationTest:61 - Finished TC_001_AccountRegistrationtTest
+2024-12-02 15:03:07 INFO  Utils:112 - [TestNG] Running:
+  C:\automation\myworkspace\opencart\grid-docker.xml
+
+2024-12-02 15:03:07 INFO  TC001_AccountRegistrationTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-12-02 15:06:19 INFO  Utils:112 - [TestNG] Running:
+  C:\automation\myworkspace\opencart\grid-docker.xml
+
+2024-12-02 15:06:19 INFO  TC001_AccountRegistrationTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-12-02 15:08:03 INFO  Utils:112 - [TestNG] Running:
+  C:\automation\myworkspace\opencart\grid-docker.xml
+
+2024-12-02 15:08:03 INFO  TC001_AccountRegistrationTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-12-02 15:09:22 INFO  Utils:112 - [TestNG] Running:
+  C:\automation\myworkspace\opencart\master.xml
+
+2024-12-02 15:09:45 INFO  Utils:112 - [TestNG] Running:
+  C:\automation\myworkspace\opencart\groping.xml
+
+2024-12-02 15:11:40 INFO  Utils:112 - [TestNG] Running:
+  C:\automation\myworkspace\opencart\grid-docker.xml
+
+2024-12-02 15:11:41 INFO  TC001_AccountRegistrationTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-12-02 15:23:31 INFO  Utils:112 - [TestNG] Running:
+  C:\automation\myworkspace\opencart\master.xml
+
+2024-12-02 15:23:50 INFO  TC001_AccountRegistrationTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-12-02 15:23:51 INFO  TC001_AccountRegistrationTest:19 - Clicked on My Account 
+2024-12-02 15:23:52 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register 
+2024-12-02 15:23:53 INFO  TC001_AccountRegistrationTest:27 - Provided First Name 
+2024-12-02 15:23:53 INFO  TC001_AccountRegistrationTest:30 - Provided Last Name 
+2024-12-02 15:23:53 INFO  TC001_AccountRegistrationTest:34 - Provided Email 
+2024-12-02 15:23:53 INFO  TC001_AccountRegistrationTest:37 - Provided Telephone 
+2024-12-02 15:23:53 INFO  TC001_AccountRegistrationTest:40 - Provided Password 
+2024-12-02 15:23:53 INFO  TC001_AccountRegistrationTest:43 - Provided Confrmed Password 
+2024-12-02 15:23:54 INFO  TC001_AccountRegistrationTest:46 - Set Privacy Policy 
+2024-12-02 15:23:55 INFO  TC001_AccountRegistrationTest:49 - Clicked on Continue 
+2024-12-02 15:23:57 INFO  TC001_AccountRegistrationTest:61 - Finished TC_001_AccountRegistrationtTest
+2024-12-02 15:24:11 INFO  TC_002_LoginTest:16 - Starting TC_002_LoginTest
+2024-12-02 15:24:11 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2024-12-02 15:24:12 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2024-12-02 15:24:12 INFO  TC_002_LoginTest:29 - Entering valid email and password..
+2024-12-02 15:24:13 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-02 15:24:14 INFO  TC_002_LoginTest:45 -  Finished TC_002_LoginTest
+2024-12-02 15:25:34 INFO  Utils:112 - [TestNG] Running:
+  C:\automation\myworkspace\opencart\master.xml
+
+2024-12-02 15:25:45 INFO  TC001_AccountRegistrationTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-12-02 15:25:45 INFO  TC001_AccountRegistrationTest:19 - Clicked on My Account 
+2024-12-02 15:25:46 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register 
+2024-12-02 15:25:47 INFO  TC001_AccountRegistrationTest:27 - Provided First Name 
+2024-12-02 15:25:47 INFO  TC001_AccountRegistrationTest:30 - Provided Last Name 
+2024-12-02 15:25:47 INFO  TC001_AccountRegistrationTest:34 - Provided Email 
+2024-12-02 15:25:47 INFO  TC001_AccountRegistrationTest:37 - Provided Telephone 
+2024-12-02 15:25:47 INFO  TC001_AccountRegistrationTest:40 - Provided Password 
+2024-12-02 15:25:47 INFO  TC001_AccountRegistrationTest:43 - Provided Confrmed Password 
+2024-12-02 15:25:47 INFO  TC001_AccountRegistrationTest:46 - Set Privacy Policy 
+2024-12-02 15:25:49 INFO  TC001_AccountRegistrationTest:49 - Clicked on Continue 
+2024-12-02 15:25:51 INFO  TC001_AccountRegistrationTest:61 - Finished TC_001_AccountRegistrationtTest
+2024-12-02 15:26:01 INFO  TC_002_LoginTest:16 - Starting TC_002_LoginTest
+2024-12-02 15:26:01 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2024-12-02 15:26:02 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2024-12-02 15:26:02 INFO  TC_002_LoginTest:29 - Entering valid email and password..
+2024-12-02 15:26:03 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-02 15:27:42 INFO  Utils:112 - [TestNG] Running:
+  C:\automation\myworkspace\opencart\test-output\testng-failed.xml
+
+2024-12-02 15:27:53 INFO  TC_002_LoginTest:16 - Starting TC_002_LoginTest
+2024-12-02 15:27:54 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2024-12-02 15:27:54 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2024-12-02 15:27:54 INFO  TC_002_LoginTest:29 - Entering valid email and password..
+2024-12-02 15:27:58 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-02 15:27:58 INFO  TC_002_LoginTest:45 -  Finished TC_002_LoginTest
+2024-12-02 16:13:19 INFO  TC001_AccountRegistrationTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-12-02 16:13:20 INFO  TC001_AccountRegistrationTest:19 - Clicked on My Account 
+2024-12-02 16:13:22 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register 
+2024-12-02 16:13:23 INFO  TC001_AccountRegistrationTest:27 - Provided First Name 
+2024-12-02 16:13:23 INFO  TC001_AccountRegistrationTest:30 - Provided Last Name 
+2024-12-02 16:13:23 INFO  TC001_AccountRegistrationTest:34 - Provided Email 
+2024-12-02 16:13:23 INFO  TC001_AccountRegistrationTest:37 - Provided Telephone 
+2024-12-02 16:13:23 INFO  TC001_AccountRegistrationTest:40 - Provided Password 
+2024-12-02 16:13:23 INFO  TC001_AccountRegistrationTest:43 - Provided Confrmed Password 
+2024-12-02 16:13:23 INFO  TC001_AccountRegistrationTest:46 - Set Privacy Policy 
+2024-12-02 16:13:25 INFO  TC001_AccountRegistrationTest:49 - Clicked on Continue 
+2024-12-02 16:13:27 INFO  TC001_AccountRegistrationTest:61 - Finished TC_001_AccountRegistrationtTest
+2024-12-02 16:13:39 INFO  TC_002_LoginTest:16 - Starting TC_002_LoginTest
+2024-12-02 16:13:40 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2024-12-02 16:13:40 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2024-12-02 16:13:40 INFO  TC_002_LoginTest:29 - Entering valid email and password..
+2024-12-02 16:13:42 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-02 16:13:42 INFO  TC_002_LoginTest:45 -  Finished TC_002_LoginTest
+2024-12-02 16:37:34 INFO  TC001_AccountRegistrationTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-12-02 16:37:35 INFO  TC001_AccountRegistrationTest:19 - Clicked on My Account 
+2024-12-02 16:37:38 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register 
+2024-12-02 16:37:38 INFO  TC001_AccountRegistrationTest:27 - Provided First Name 
+2024-12-02 16:37:39 INFO  TC001_AccountRegistrationTest:30 - Provided Last Name 
+2024-12-02 16:37:39 INFO  TC001_AccountRegistrationTest:34 - Provided Email 
+2024-12-02 16:37:39 INFO  TC001_AccountRegistrationTest:37 - Provided Telephone 
+2024-12-02 16:37:39 INFO  TC001_AccountRegistrationTest:40 - Provided Password 
+2024-12-02 16:37:39 INFO  TC001_AccountRegistrationTest:43 - Provided Confrmed Password 
+2024-12-02 16:37:40 INFO  TC001_AccountRegistrationTest:46 - Set Privacy Policy 
+2024-12-02 16:37:41 INFO  TC001_AccountRegistrationTest:49 - Clicked on Continue 
+2024-12-02 16:37:43 INFO  TC001_AccountRegistrationTest:61 - Finished TC_001_AccountRegistrationtTest
+2024-12-02 16:37:55 INFO  TC_002_LoginTest:16 - Starting TC_002_LoginTest
+2024-12-02 16:37:55 INFO  TC_002_LoginTest:23 - clicked on myaccount link on the home page..
+2024-12-02 16:37:56 INFO  TC_002_LoginTest:25 - clicked on login link under myaccount..
+2024-12-02 16:37:57 INFO  TC_002_LoginTest:29 - Entering valid email and password..
+2024-12-02 16:37:58 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-02 16:37:58 INFO  TC_002_LoginTest:45 -  Finished TC_002_LoginTest

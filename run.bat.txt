@@ -1,0 +1,2 @@
+cd C:\automation\myworkspace\opencart
+mvn test
